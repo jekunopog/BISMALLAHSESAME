@@ -1,0 +1,10 @@
+{
+  "TOKEN": "ODExOTAxMTcyMDkyMzcwOTc1.YC474w.kFNySFzxRQ5AMnZq3xCyFSRpq0U",
+  "YOUTUBE_API_KEY": "AIzaSyDzvBbKvefiHelomIS6d_1-KsXY6ceO3d0",
+  "SOUNDCLOUD_CLIENT_ID": "",
+  "MAX_PLAYLIST_SIZE": 10,
+  "PREFIX": "bismallah ", 
+  "PRUNING": false,
+  "STAY_TIME": 300,
+  "DEFAULT_VOLUME": 100
+}
