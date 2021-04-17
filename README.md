@@ -1,3 +1,3 @@
 # BISMALLAHSESAME
 
-# halal discord bot
+halal discord bot
