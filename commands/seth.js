@@ -7,7 +7,7 @@ module.exports = {
   aliases: ["sethorder", "orders"],
   description: "meth",
   async execute(message, args) {
-        const argsdone = .join(" ")
+        const argsdone = args.join(" ")
     
         let embed = new MessageEmbed()
             .setTitle("New Order!")
