@@ -7,10 +7,11 @@ module.exports = {
   aliases: ["sethorder", "orders"],
   description: "meth",
   async execute(message, args) {
+        const argsdone = .join(" ")
     
         let embed = new MessageEmbed()
             .setTitle("New Order!")
-            .setDescription(`Product: ${args}`)
+            .setDescription(`Product: ${argsdone}`)
             .setFooter(message.author.username)
             .setColor("#030202");
         message.delete;
