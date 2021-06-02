@@ -3,7 +3,7 @@ module.exports = {
     aliases: ["purge"],
     description: "brock",
     execute(message, args) {
-      message.reply("brocks a cuntface")
+      return message.channel.send("brock is halal").catch(console.error)
     }
   };
   
